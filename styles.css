@@ -1,0 +1,15 @@
+h1 {
+	color: magenta;
+	text-align: center;
+}
+p {
+	color: green;
+	
+}
+div {
+	color: yellow;
+	background-color: purple;
+	width: 200px;
+	height: 200px;
+	margin: 30px;
+}
